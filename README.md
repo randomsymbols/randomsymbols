@@ -10,7 +10,12 @@ I work mostly on systems that already exist — payment integrations, legacy mod
 
 **Online banking platform** (4 years) — CodeIgniter 3 on PHP 7/8, a large legacy monolith. Extended and maintained an API server for interbank transfers over SWIFT, SEPA and ISO 20022, plus integrations with third-party payment providers. Led a team of four developers for six months. Found and closed a stored XSS in the view layer.
 
-**Crypto crowdfunding platform** — Symfony and Vue.js, with Doctrine, RabbitMQ and PHPUnit. Proposed and implemented Content Security Policy across the product.
+**Crypto crowdfunding platform** — Symfony and Vue.js, with Doctrine,
+RabbitMQ and PHPUnit. Half new features; the other half I proposed
+myself — an audit that found and fixed XSS, added CSRF tokens to close
+a route to unauthorised transactions, moved state-changing endpoints
+off GET, and put Content Security Policy and Subresource Integrity in
+place. Picked out of 50+ engineers to review other developers' code.
 
 ### Stack
 
