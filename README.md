@@ -14,7 +14,7 @@ I work mostly on systems that already exist — payment integrations, legacy mod
 
 ### Stack
 
-`PHP 8` `Symfony` `Doctrine` `Yii2` `CodeIgniter` `MySQL` `PostgreSQL` `MongoDB` `Redis` `Elasticsearch` `RabbitMQ` `Docker` `PHPUnit` `PHPStan` `Psalm` `Vue.js` `Twig` `JavaScript`
+`PHP 8` `Symfony` `Doctrine` `Yii2` `CodeIgniter` `MySQL` `PostgreSQL` `MongoDB` `Redis` `Elasticsearch` `RabbitMQ` `Docker` `PHPUnit` `PHPStan` `Psalm` `Vue.js` `Twig` `JavaScript` `TypeScript`
 
 ### Also
 
