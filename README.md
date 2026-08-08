@@ -21,7 +21,7 @@ place. Picked out of 50+ engineers to review other developers' code.
 
 `PHP 8` `Symfony` `Doctrine` `Yii2` `CodeIgniter` `Twig`
 `MySQL` `PostgreSQL` `MongoDB` `Redis` `Elasticsearch` `RabbitMQ`
-`Docker` `PHPUnit` `PHPStan` `Psalm` `Codeception` `Vue.js` `JavaScript`
+`Docker` `PHPUnit` `PHPStan` `Psalm` `Codeception` `Vue.js` `Twig` `JavaScript`
 
 ### Also
 
